@@ -14,6 +14,7 @@ Lab code for an intro microcontrollers course. Board: Viva Board 5.4 with a PIC1
 | [Lab7](Lab7) | UART | C (XC8) | Not tested on hardware |
 | [Lab8](Lab8) | I2C LCD | C (XC8) + Arduino | Not tested on hardware |
 | [Lab9](Lab9) | Sleep | C (XC8) | Not tested on hardware |
+| [Practicum](Practicum) | OLED (SSD1306) pot display | C (XC8) | Not tested on hardware |
 
 Labs 4B and 7 include `UART.h`, which isn't in this repo.
 
